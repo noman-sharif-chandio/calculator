@@ -1,0 +1,16 @@
+.root{
+-fx-background-color:#222;
+-fx-background-radius:28;
+}
+.mainPane{
+-fx-background-color:#000000;
+-fx-background-radius: 15 15 25 25;
+}
+.highlight{
+-fx-background-color: #ff9c16;
+-fx-background-radius: 15;
+}
+.highlight2{
+-fx-background-color:#202020;
+-fx-background-radius: 15;
+}
